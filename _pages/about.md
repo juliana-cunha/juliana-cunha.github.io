@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+<!---
 I'm a PhD candidate in the Mathematics Department at the University of Aveiro supported by an FCT scholarship. I graduated in Mathematics from the University of Porto in 2020 and completed an MSc in Mathematics and Applications at the University of Aveiro in 2023, with a thesis titled "Towards a Specification Theory for Paraconsistent Transition Systems" [(available here)](https://ria.ua.pt/bitstream/10773/40670/1/Documento_Juliana_Cunha.pdf). My research interests include paraconsistent logics, automata theory, lattice theory, and formal specification. My work mainly focuses on building paraconsistent frameworks to reason about inconsistent information in a controlled and sound manner.
 
 For my updated curriculum, please visit my [CiênciaVitae](https://www.cienciavitae.pt/en/9D1E-9BD4-3F9E).
@@ -37,3 +38,6 @@ Events
 - A first contact with Quantum Computing, University of Aveiro (2022)
 - Third World Logic Day in Aveiro, University of Aveiro (2022)
 - Hands-on quantum computing with Qiskit, University of Aveiro (2021)
+
+
+-->
