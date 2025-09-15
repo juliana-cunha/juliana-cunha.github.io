@@ -7,13 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
-Projects and Grants
-------
-- PhD Grant by [FCT](https://www.fct.pt/) 
-- Collaborator in [Ibex](https://lmf.di.uminho.pt//Ibex/)- Quantitative methods for cyber-physical programming 
-- PhD Grant by [PRR- Plano de Recuperação e Resiliência](https://recuperarportugal.gov.pt/) 
-
 Events
 ------
 - 4th Women in Mathematics, University of Porto (2025)
