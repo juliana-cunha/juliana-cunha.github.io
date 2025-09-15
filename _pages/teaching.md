@@ -11,7 +11,7 @@ Apontamentos Aulas:
 ------
 - [Aula 1](https://juliana-cunha.github.io/files/Aula%201.pdf) 📅15/09/2025
 
-Notas dos exercícios das Folhas Práticas
+Notas dos exercícios das Folhas Práticas:
 ------
 - [FP1](https://juliana-cunha.github.io/files/FP1_res.pdf) 📅 15/09/2025
   
