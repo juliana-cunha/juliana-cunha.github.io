@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+You can find me at the University of Aveiro, where I do research on paraconsistent logic, automata theory, lattice theory, and formal specification. My work mainly focuses on developing paraconsistent frameworks to reason about inconsistent information in a controlled and sound manner.
+
 Events
 ------
 - 4th Women in Mathematics, University of Porto (2025)
