@@ -11,7 +11,7 @@ author_profile: true
 <!-- MSCS-->
   <li>Juliana Cunha, Alexandre Madeira, Luís S. Barbosa (2025). Paraconsistent transition structures: compositional principles and a modal logic. Mathematical Structures in Computer Science, 35, e14. https://doi.org/10.1017/S0960129525100170 </li>  
 <!--FSEN 23 extended-->
-  <li>Juliana Cunha, Alexandre Madeira, & Luís Soares Barbosa (2025). Specification of paraconsistent transition systems, revisited. Sci. Comput. Program., 240, 103196. https://doi.org/10.1016/j.scico.2024.103196  [[.pdf](https://juliana-cunha.github.io/files/ReacTS24.pdf)] </li>
+  <li>Juliana Cunha, Alexandre Madeira, & Luís Soares Barbosa (2025). Specification of paraconsistent transition systems, revisited. Sci. Comput. Program., 240, 103196. https://doi.org/10.1016/j.scico.2024.103196  [.pdf](https://juliana-cunha.github.io/files/ReacTS24.pdf)  </li>
 <!-- LSFA24-->
   <li>Juliana Cunha, Alexandre Madeira, & Luís Soares Barbosa (2025). Paraconsistent Relations as a Variant of Kleene Algebras. CoRR, abs/2506.05840. https://doi.org/10.48550/arXiv.2506.05840</li>
 <!--ReacTS24-->
