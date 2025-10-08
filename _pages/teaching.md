@@ -23,8 +23,6 @@ Notas dos exercícios das Folhas Práticas:
 - [FP1](https://juliana-cunha.github.io/files/FP1_res.pdf) 📅 24/09/2025
 - [FP2](https://juliana-cunha.github.io/files/FP2_res.pdf) 📅 30/09/2025
 
-[Slides](https://juliana-cunha.github.io/files/Cap2%20-%20Espa%C3%A7os%20Vetoriais%20(1).pdf), [FP](https://juliana-cunha.github.io/files/FP2_res.pdf)  e [soluções da FP](https://juliana-cunha.github.io/files/solFP2_24_25.pdf)  do Cap.2 (NOTA: Este material é do ano passado e como irá sofrer alterações a versão final ainda não está disponível no elearning)
-
 
   
 
