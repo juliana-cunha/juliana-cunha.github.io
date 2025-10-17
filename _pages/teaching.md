@@ -18,7 +18,8 @@ Apontamentos Aulas:
 - [Aula 6](https://juliana-cunha.github.io/files/Aula%206.pdf) 📅02/10/2025
 - [Aula 7](https://juliana-cunha.github.io/files/Aula%207.pdf) 📅06/10/2025
 - [Aula 8](https://juliana-cunha.github.io/files/Aula%208.pdf) 📅09/10/2025
-- [Aula 9](https://juliana-cunha.github.io/files/Aula%209.pdf) 📅13/10/2025 
+- [Aula 9](https://juliana-cunha.github.io/files/Aula%209.pdf) 📅13/10/2025
+- [Aula 10](https://juliana-cunha.github.io/files/Aula%210.pdf) 📅16/10/2025 
 
 Notas dos exercícios das Folhas Práticas:
 ------
