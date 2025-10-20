@@ -29,6 +29,7 @@ Notas dos exercícios das Folhas Práticas:
 Testes e Exames:
 ------
 - [Teste 1 2023/2024](https://juliana-cunha.github.io/files/Teste1_2023.pdf) 📅 20/10/2025
+- [Exame Final 2023/2024](https://juliana-cunha.github.io/files/ExameFinal_2023.pdf) 📅 20/10/2025
 
 
   
