@@ -26,6 +26,10 @@ Notas dos exercícios das Folhas Práticas:
 - [FP1](https://juliana-cunha.github.io/files/FP1_res.pdf) 📅 24/09/2025
 - [FP2](https://juliana-cunha.github.io/files/FP2_res.pdf) 📅 17/10/2025 (ex. 6 acrescentado)
 
+Testes e Exames:
+------
+- [Teste 1 2023/2024](https://juliana-cunha.github.io/files/Teste1_2023.pdf) 📅 20/10/2025
+
 
   
 
