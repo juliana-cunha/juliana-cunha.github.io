@@ -23,6 +23,7 @@ Testes e Exames:
 - [Teste 2 + Exame Final 2023/2024](https://juliana-cunha.github.io/files/ExameFinal_2023.pdf) 📅 20/10/2025
 - [Exame Recurso 2023/2024](https://juliana-cunha.github.io/files/Recurso_2023.pdf) 📅 21/10/2025
 - [Teste 1 2024/2025](https://juliana-cunha.github.io/files/Teste1_2024.pdf) 📅 21/10/2025
+- [Teste 2 + Exame Final 2024/2025](https://juliana-cunha.github.io/files/ExameFinal_2024.pdf) 📅 20/10/2025
 - [Exame Recurso 2024/2025](https://juliana-cunha.github.io/files/Recurso_2024.pdf) 📅 21/10/2025
 
 
