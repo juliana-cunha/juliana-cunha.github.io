@@ -11,9 +11,11 @@ You can find me at the University of Aveiro, where I do research on paraconsiste
 
 Events
 ------
+- 5th Annual Meeting of Mathematics Department PhD Students (Chair), University of Aveiro (2025)
+- XV Portuguese Category Seminar, University of Aveiro (2025)
 - 4th Women in Mathematics, University of Porto (2025)
 - 22nd International Conference on Software Engineering and Formal Methods (Local Organisation), University of Aveiro (2024)
-- 2024 Annual Meeting of Mathematics Department PhD Students (Chair), University of Aveiro (2024)
+- 4th Annual Meeting of Mathematics Department PhD Students (Chair), University of Aveiro (2024)
 - 19th International Workshop on Logical and Semantic Frameworks, with Applications, Universidade Federal de Goiás (2024)
 - 18th International Symposium on Theoretical Aspects of Software Engineering, University of Bristol (2023)
 - 10th IPM International Conference on Fundamentals of Software Engineering, Institute for Research in Fundamental Sciences Iran (2023)
