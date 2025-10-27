@@ -14,7 +14,7 @@ Apontamentos Aulas:
 
 Notas dos exercícios das Folhas Práticas:
 ------
-- [FP1](https://juliana-cunha.github.io/files/FP1_res.pdf) 📅 24/09/2025
+- [FP1](https://juliana-cunha.github.io/files/FP1_res.pdf) 📅 27/10/2025 (exercício 36(a) acrescentado)
 - [FP2](https://juliana-cunha.github.io/files/FP2_res.pdf) 📅 17/10/2025 (exercício 6 acrescentado)
 
 Testes e Exames:
