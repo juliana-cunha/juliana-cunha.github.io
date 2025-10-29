@@ -10,7 +10,8 @@ author_profile: true
 
 Apontamentos Aulas: 
 ------    
-[Aula 1](https://juliana-cunha.github.io/files/Aula%201.pdf), [Aula 2](https://juliana-cunha.github.io/files/Aula%202.pdf) + [Slides Revisão Sistemas Lineares](https://juliana-cunha.github.io/files/Revis%C3%A3o_sistemas_lineares.pdf), [Aula 3](https://juliana-cunha.github.io/files/Aula%203.pdf), [Aula 4](https://juliana-cunha.github.io/files/Aula%204.pdf), [Aula 5](https://juliana-cunha.github.io/files/Aula%205.pdf), [Aula 6](https://juliana-cunha.github.io/files/Aula%206.pdf), [Aula 7](https://juliana-cunha.github.io/files/Aula%207.pdf), [Aula 8](https://juliana-cunha.github.io/files/Aula%208.pdf), [Aula 9](https://juliana-cunha.github.io/files/Aula%209.pdf), [Aula 10](https://juliana-cunha.github.io/files/Aula%2010.pdf), [Aula 11](https://juliana-cunha.github.io/files/Aula%2011.pdf), [Aula 12](https://juliana-cunha.github.io/files/Aula%2012.pdf)
+- [Aula 1](https://juliana-cunha.github.io/files/Aula%201.pdf), [Aula 2](https://juliana-cunha.github.io/files/Aula%202.pdf) + [Slides Revisão Sistemas Lineares](https://juliana-cunha.github.io/files/Revis%C3%A3o_sistemas_lineares.pdf), [Aula 3](https://juliana-cunha.github.io/files/Aula%203.pdf), [Aula 4](https://juliana-cunha.github.io/files/Aula%204.pdf)
+- [Aula 5](https://juliana-cunha.github.io/files/Aula%205.pdf), [Aula 6](https://juliana-cunha.github.io/files/Aula%206.pdf), [Aula 7](https://juliana-cunha.github.io/files/Aula%207.pdf), [Aula 8](https://juliana-cunha.github.io/files/Aula%208.pdf), [Aula 9](https://juliana-cunha.github.io/files/Aula%209.pdf), [Aula 10](https://juliana-cunha.github.io/files/Aula%2010.pdf), [Aula 11](https://juliana-cunha.github.io/files/Aula%2011.pdf), [Aula 12](https://juliana-cunha.github.io/files/Aula%2012.pdf)
 
 Notas dos exercícios das Folhas Práticas:
 ------
