@@ -12,7 +12,7 @@ Apontamentos das aulas:
 ------    
 - [Aula 1](https://juliana-cunha.github.io/files/Aula%201.pdf), [Aula 2](https://juliana-cunha.github.io/files/Aula%202.pdf) + [Slides Revisão Sistemas Lineares](https://juliana-cunha.github.io/files/Revis%C3%A3o_sistemas_lineares.pdf), [Aula 3](https://juliana-cunha.github.io/files/Aula%203.pdf), [Aula 4](https://juliana-cunha.github.io/files/Aula%204.pdf)
 - [Aula 5](https://juliana-cunha.github.io/files/Aula%205.pdf), [Aula 6](https://juliana-cunha.github.io/files/Aula%206.pdf), [Aula 7](https://juliana-cunha.github.io/files/Aula%207.pdf), [Aula 8](https://juliana-cunha.github.io/files/Aula%208.pdf), [Aula 9](https://juliana-cunha.github.io/files/Aula%209.pdf), [Aula 10](https://juliana-cunha.github.io/files/Aula%2010.pdf), [Aula 11](https://juliana-cunha.github.io/files/Aula%2011.pdf), [Aula 12](https://juliana-cunha.github.io/files/Aula%2012.pdf)
-- [Aula 14](https://juliana-cunha.github.io/files/Aula%2014.pdf), [Aula 15](https://juliana-cunha.github.io/files/Aula%2015.pdf), [Aula 16](https://juliana-cunha.github.io/files/Aula%2016.pdf) 📅 06/11/2025
+- [Aula 14](https://juliana-cunha.github.io/files/Aula%2014.pdf), [Aula 15](https://juliana-cunha.github.io/files/Aula%2015.pdf), [Aula 16](https://juliana-cunha.github.io/files/Aula%2016.pdf), [Aula 17](https://juliana-cunha.github.io/files/Aula%2017.pdf) 📅 10/11/2025
 
 Notas dos exercícios das Folhas Práticas:
 ------
