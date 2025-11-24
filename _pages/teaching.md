@@ -15,6 +15,8 @@ Apontamentos das aulas:
 - [Aula 16](https://juliana-cunha.github.io/files/Aula%2016.pdf), [Aula 17](https://juliana-cunha.github.io/files/Aula%2017.pdf), [Aula 18](https://juliana-cunha.github.io/files/Aula%2018.pdf) + [Equações de Retas e Planos + Distâncias](https://juliana-cunha.github.io/files/Retas__Planos_e_dista%CC%82ncias.pdf)
 - [Aula 19](https://juliana-cunha.github.io/files/Aula%2019.pdf), [Aula 20](https://juliana-cunha.github.io/files/Aula%2020.pdf) 📅 20/11/2025
 
+[Slides Cap. 5.1.](https://juliana-cunha.github.io/files/Cap5-1-Valores%20e%20Vetores%20Pr%C3%B3prios.pdf) + [FP5](https://juliana-cunha.github.io/files/FP5_24_25.pdf)
+
 Notas dos exercícios das Folhas Práticas:
 ------
 - [FP1](https://juliana-cunha.github.io/files/FP1_res.pdf) 📅 27/10/2025 
