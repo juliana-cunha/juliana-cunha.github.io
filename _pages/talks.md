@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-
+- (2025) [Seminar of the Algebra, Logic and Topology of CMUC (Center of Mathematics University of Coimbra)](https://cmuc.mat.uc.pt/rdonweb/event/showPPSeminar.do?seminarID=2400), University of Coimbra. Talk "An overview on paraconsistent structures and their logics".
 - (2025) [4th Women in Mathematics](https://sites.google.com/view/fcup-wm25/submissions?authuser=0), University of Porto. Talk “Automata Theory in a Paraconsistent Setting”
 - (2024) [Quantitative Principles of Cyber-Physical Systems](https://lmf.di.uminho.pt/Ibex/workshop.html) a satellite workshop of the 22nd International Conference on Software Engineering and Formal Methods, University of Aveiro, Talk “Modal Invariant Relations for Paraconsistent Systems”
 - (2024) [International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications](https://reacts2024.github.io/) a satellite event of the 22nd International Conference on Software Engineering and Formal Methods, University of Aveiro, Talk “Paraconsistent Reactive Graphs”
