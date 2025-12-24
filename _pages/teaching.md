@@ -18,10 +18,7 @@ Apontamentos das aulas:
 
 Notas dos exercícios das Folhas Práticas:
 ------
-- [FP1](https://juliana-cunha.github.io/files/FP1_res.pdf) 📅 27/10/2025 
-- [FP2](https://juliana-cunha.github.io/files/FP2_res.pdf) 📅 28/10/2025
-- [FP3](https://juliana-cunha.github.io/files/FP3_res.pdf) 📅 06/11/2025 + [Folha Regra de Cramer](https://juliana-cunha.github.io/files/Folha_RegraCramer_res.pdf)
-- [FP4](https://juliana-cunha.github.io/files/FP4_res.pdf) 📅 18/11/2025
+[FP1](https://juliana-cunha.github.io/files/FP1_res.pdf), [FP2](https://juliana-cunha.github.io/files/FP2_res.pdf), [FP3](https://juliana-cunha.github.io/files/FP3_res.pdf) + [Folha Regra de Cramer](https://juliana-cunha.github.io/files/Folha_RegraCramer_res.pdf), [FP4](https://juliana-cunha.github.io/files/FP4_res.pdf) 
 
 Testes e Exames:
 ------
