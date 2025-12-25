@@ -24,6 +24,8 @@ Testes e Exames:
 ------
 Materia para o 2ºteste:
 - [Teste 1 2023/2024](https://juliana-cunha.github.io/files/Teste1%202023%20(2).pdf) 📅 24/12/2025
+- [Teste 2 + Exame Final 2023/2024](https://juliana-cunha.github.io/files/Exame%20Final%202023%20(2).pdf) 📅 25/12/2025
+
 
 Matéria para o 1ºteste:
 - [Teste 1 2023/2024](https://juliana-cunha.github.io/files/Teste1_2023.pdf) 📅 20/10/2025
