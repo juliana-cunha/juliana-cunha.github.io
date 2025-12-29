@@ -24,7 +24,7 @@ Materia para o 2ºteste:
 - [Teste 2 + Exame Final 2023/2024](https://juliana-cunha.github.io/files/Exame%20Final%202023%20(2).pdf) 📅 25/12/2025
 - [Exame Recurso 2023/2024](https://juliana-cunha.github.io/files/Exame%20Recurso%202023%20(2).pdf) 📅 26/12/2025
 - Teste 1 2024/2025
-- Teste 2 + Exame Final 2024/2025
+- [Teste 2 + Exame Final 2024/2025](https://juliana-cunha.github.io/files/Exame%20final%202024%20(2).pdf) 📅 29/12/2025
 - Exame Recurso 2024/2025
 
 
