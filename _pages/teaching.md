@@ -20,21 +20,21 @@ Notas dos exercícios das Folhas Práticas:
 Testes e Exames:
 ------
 Materia para o 2ºteste:
-- [Teste 1 2023/2024](https://juliana-cunha.github.io/files/Teste1%202023%20(2).pdf) 📅 24/12/2025
-- [Teste 2 + Exame Final 2023/2024](https://juliana-cunha.github.io/files/Exame%20Final%202023%20(2).pdf) 📅 25/12/2025
-- [Exame Recurso 2023/2024](https://juliana-cunha.github.io/files/Exame%20Recurso%202023%20(2).pdf) 📅 26/12/2025
-- [Teste 1 2024/2025](https://juliana-cunha.github.io/files/Teste1%202024%20(2).pdf) 📅 29/12/2025
-- [Teste 2 + Exame Final 2024/2025](https://juliana-cunha.github.io/files/Exame%20final%202024%20(2).pdf) 📅 29/12/2025
-- [Exame Recurso 2024/2025](https://juliana-cunha.github.io/files/Exame%20de%20recurso%202024%20(2).pdf) 📅 29/12/2025
+- [Teste 1 2023/2024](https://juliana-cunha.github.io/files/Teste1%202023%20(2).pdf) 
+- [Teste 2 + Exame Final 2023/2024](https://juliana-cunha.github.io/files/Exame%20Final%202023%20(2).pdf) 
+- [Exame Recurso 2023/2024](https://juliana-cunha.github.io/files/Exame%20Recurso%202023%20(2).pdf) 
+- [Teste 1 2024/2025](https://juliana-cunha.github.io/files/Teste1%202024%20(2).pdf) 
+- [Teste 2 + Exame Final 2024/2025](https://juliana-cunha.github.io/files/Exame%20final%202024%20(2).pdf)
+- [Exame Recurso 2024/2025](https://juliana-cunha.github.io/files/Exame%20de%20recurso%202024%20(2).pdf) 
 
 
 Matéria para o 1ºteste:
-- [Teste 1 2023/2024](https://juliana-cunha.github.io/files/Teste1_2023.pdf) 📅 20/10/2025
-- [Teste 2 + Exame Final 2023/2024](https://juliana-cunha.github.io/files/ExameFinal_2023.pdf) 📅 20/10/2025
-- [Exame Recurso 2023/2024](https://juliana-cunha.github.io/files/Recurso_2023.pdf) 📅 21/10/2025
-- [Teste 1 2024/2025](https://juliana-cunha.github.io/files/Teste1_2024.pdf) 📅 21/10/2025
-- [Teste 2 + Exame Final 2024/2025](https://juliana-cunha.github.io/files/ExameFinal_2024.pdf) 📅 21/10/2025
-- [Exame Recurso 2024/2025](https://juliana-cunha.github.io/files/Recurso_2024.pdf) 📅 21/10/2025
+- [Teste 1 2023/2024](https://juliana-cunha.github.io/files/Teste1_2023.pdf) 
+- [Teste 2 + Exame Final 2023/2024](https://juliana-cunha.github.io/files/ExameFinal_2023.pdf) 
+- [Exame Recurso 2023/2024](https://juliana-cunha.github.io/files/Recurso_2023.pdf) 
+- [Teste 1 2024/2025](https://juliana-cunha.github.io/files/Teste1_2024.pdf) 
+- [Teste 2 + Exame Final 2024/2025](https://juliana-cunha.github.io/files/ExameFinal_2024.pdf) 
+- [Exame Recurso 2024/2025](https://juliana-cunha.github.io/files/Recurso_2024.pdf) 
 
 
   
