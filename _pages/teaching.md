@@ -17,6 +17,16 @@ Notas dos exercícios das Folhas Práticas:
 [FP1](https://juliana-cunha.github.io/files/FP1_res.pdf), [FP2](https://juliana-cunha.github.io/files/FP2_res.pdf), [FP3](https://juliana-cunha.github.io/files/FP3_res.pdf) + [Folha Regra de Cramer](https://juliana-cunha.github.io/files/Folha_RegraCramer_res.pdf), [FP4](https://juliana-cunha.github.io/files/FP4_res.pdf), [FP5](https://juliana-cunha.github.io/files/FP5_res.pdf) e [FP6](https://juliana-cunha.github.io/files/FP6_res.pdf)
 
 
+Testes e Exames:
+------
+Materia para o 2ºteste:
+- [Teste 1 2023/2024](https://juliana-cunha.github.io/files/Teste1%202023%20(2).pdf) 
+- [Teste 2 + Exame Final 2023/2024](https://juliana-cunha.github.io/files/Exame%20Final%202023%20(2).pdf) 
+- [Exame Recurso 2023/2024](https://juliana-cunha.github.io/files/Exame%20Recurso%202023%20(2).pdf) 
+- [Teste 1 2024/2025](https://juliana-cunha.github.io/files/Teste1%202024%20(2).pdf) 
+- [Teste 2 + Exame Final 2024/2025](https://juliana-cunha.github.io/files/Exame%20final%202024%20(2).pdf)
+- [Exame Recurso 2024/2025](https://juliana-cunha.github.io/files/Exame%20de%20recurso%202024%20(2).pdf) 
+
 
   
 
