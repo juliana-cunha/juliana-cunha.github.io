@@ -9,6 +9,22 @@ redirect_from:
 
 You can find me at the University of Aveiro, where I do research on paraconsistent logic, automata theory, lattice theory, and formal specification. My work mainly focuses on developing paraconsistent frameworks to reason about inconsistent information in a controlled and sound manner.
 
+For my updated curriculum, please visit my [CiênciaVitae](https://www.cienciavitae.pt/en/9D1E-9BD4-3F9E).
+
+
+Education
+------
+- PhD in Mathematics, University of Aveiro (2023-2029)
+- Msc in Mathematics and Applications, University of Aveiro (2020-2023)
+- Bachelors in Mathematics, FCUP, University of Porto (2017-2020)
+
+Projects and Grants
+------
+- Collaborator in [Banksy](http://lmf.di.uminho.pt/Bansky/)- A paraconsistent inference engine to support research in age-related macular degeneration (2025-2029)
+- PhD Grant by [FCT](https://www.fct.pt/) (2025-2029)
+- Collaborator in [Ibex](https://lmf.di.uminho.pt//Ibex/)- Quantitative methods for cyber-physical programming (2023-2025)
+- PhD Grant by [PRR- Plano de Recuperação e Resiliência](https://recuperarportugal.gov.pt/) (2023-2024)
+
 Events
 ------
 - [Days in Logic 2026](https://w3.math.uminho.pt/DiL2026/index.html), University of Minho (2026)
