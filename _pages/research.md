@@ -71,9 +71,9 @@ author_profile: true
 <div class="pub-container">
   <span class="pub-title">Paraconsistent transition structures: compositional principles and a modal logic</span>
   <div class="pub-authors">Juliana Cunha, Alexandre Madeira, Luís S. Barbosa</div>
-  <span class="pub-venue">Mathematical Structures in Computer Science, 2025</span>
+  <span class="pub-venue">Mathematical Structures in Computer Science, vol. 35, p. e14, 2025 </span>
   <div class="pub-links">
-    <a href="https://doi.org/10.1017/S0960129525100170" class="btn-pub btn-pdf">PDF</a>
+    <a href="" class="btn-pub btn-pdf">PDF</a>
     <a href="https://doi.org/10.1017/S0960129525100170" class="btn-pub btn-doi">DOI</a>
   </div>
 </div>
@@ -81,9 +81,9 @@ author_profile: true
 <div class="pub-container">
   <span class="pub-title">Specification of paraconsistent transition systems, revisited</span>
   <div class="pub-authors">Juliana Cunha, Alexandre Madeira, & Luís Soares Barbosa</div>
-  <span class="pub-venue">Sci. Comput. Program., 2025</span>
+  <span class="pub-venue">Science of Computer Programming, vol. 240, p. 103196, 2025.</span>
   <div class="pub-links">
-    <a href="https://doi.org/10.1016/j.scico.2024.103196" class="btn-pub btn-pdf">PDF</a>
+    <a href=" https://juliana-cunha.github.io/files/papers/SCP23.pdf" class="btn-pub btn-pdf">PDF</a>
     <a href="https://doi.org/10.1016/j.scico.2024.103196" class="btn-pub btn-doi">DOI</a>
   </div>
 </div>
@@ -91,9 +91,9 @@ author_profile: true
 <div class="pub-container">
   <span class="pub-title">Paraconsistent Relations as a Variant of Kleene Algebras</span>
   <div class="pub-authors">Juliana Cunha, Alexandre Madeira, & Luís Soares Barbosa</div>
-  <span class="pub-venue">CoRR (arXiv), 2025</span>
+  <span class="pub-venue"> In Proceedings of the 19th International Workshop on Logical and Semantic Frameworks, with Applications, 2024, Goiânia, Brazil, pp. 130–147. </span>
   <div class="pub-links">
-    <a href="https://arxiv.org/pdf/2506.05840.pdf" class="btn-pub btn-pdf">PDF</a>
+    <a href="https://juliana-cunha.github.io/files/papers/LSFA24.pdf" class="btn-pub btn-pdf">PDF</a>
     <a href="https://doi.org/10.48550/arXiv.2506.05840" class="btn-pub btn-doi">arXiv</a>
   </div>
 </div>
@@ -101,9 +101,9 @@ author_profile: true
 <div class="pub-container">
   <span class="pub-title">Paraconsistent Reactive Graphs</span>
   <div class="pub-authors">Juliana Cunha, Alexandre Madeira, & Luís Soares Barbosa</div>
-  <span class="pub-venue">SEFM 2024 Workshops - ReacTS 2024</span>
+  <span class="pub-venue"> In Proença, J., Fervari, R., Martins, M.A., Kahle, R., Pluck, G. (eds) Software Engineering and Formal Methods 2024 Collocated Workshops. Lecture Notes in Computer Science, vol 15551. Springer, Cham. </span>
   <div class="pub-links">
-    <a href="https://doi.org/10.1007/978-3-031-94748-3_9" class="btn-pub btn-pdf">PDF</a>
+    <a href="https://juliana-cunha.github.io/files/papers/Reacts24.pdf" class="btn-pub btn-pdf">PDF</a>
     <a href="https://doi.org/10.1007/978-3-031-94748-3_9" class="btn-pub btn-doi">DOI</a>
   </div>
 </div>
@@ -111,9 +111,9 @@ author_profile: true
 <div class="pub-container">
   <span class="pub-title">Structured Specification of Paraconsistent Transition Systems</span>
   <div class="pub-authors">Juliana Cunha, Alexandre Madeira, & Luís Soares Barbosa</div>
-  <span class="pub-venue">FSEN 2023</span>
+  <span class="pub-venue">In: Hojjat, H., Ábrahám, E. (eds) Fundamentals of Software Engineering 2023. Lecture Notes in Computer Science, vol 14155.  Springer, Cham.</span>
   <div class="pub-links">
-    <a href="https://doi.org/10.1007/978-3-031-42441-0_1" class="btn-pub btn-pdf">PDF</a>
+    <a href="https://juliana-cunha.github.io/files/papers/FSEN23.pdf" class="btn-pub btn-pdf">PDF</a>
     <a href="https://doi.org/10.1007/978-3-031-42441-0_1" class="btn-pub btn-doi">DOI</a>
   </div>
 </div>
@@ -121,9 +121,9 @@ author_profile: true
 <div class="pub-container">
   <span class="pub-title">Stepwise Development of Paraconsistent Processes</span>
   <div class="pub-authors">Juliana Cunha, Alexandre Madeira, & Luís Soares Barbosa</div>
-  <span class="pub-venue">TASE 2023</span>
+  <span class="pub-venue"> In: David, C., Sun, M. (eds) Theoretical Aspects of Software Engineering 2023. Lecture Notes in Computer Science, vol 13931. Springer, Cham. </span>
   <div class="pub-links">
-    <a href="https://doi.org/10.1007/978-3-031-35257-7_20" class="btn-pub btn-pdf">PDF</a>
+    <a href="https://juliana-cunha.github.io/files/papers/TASE23.pdf" class="btn-pub btn-pdf">PDF</a>
     <a href="https://doi.org/10.1007/978-3-031-35257-7_20" class="btn-pub btn-doi">DOI</a>
   </div>
 </div>
