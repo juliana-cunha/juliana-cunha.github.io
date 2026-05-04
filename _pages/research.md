@@ -7,33 +7,36 @@ author_profile: true
 
 <style>
   .pub-container {
-    margin-bottom: 0.8rem;
+    margin-bottom: 1rem;
     padding: 0.8rem 1rem;
-    border-left: 3px solid #e1e4e8;
+    /* Uses theme's border color or a semi-transparent gray */
+    border-left: 3px solid rgba(128, 128, 128, 0.3);
     background-color: transparent;
     transition: all 0.2s ease;
   }
+  /* Subtle highlight on hover that works in both modes */
   .pub-container:hover {
     border-left: 3px solid #007acc;
-    background-color: #f9f9f9;
+    background-color: rgba(128, 128, 128, 0.05);
   }
   .pub-title {
     font-weight: 600;
     font-size: 1rem;
     line-height: 1.2;
-    color: #222;
+    /* Adapt to theme text color */
+    color: inherit; 
     display: block;
     margin-bottom: 3px;
   }
   .pub-authors {
     font-size: 0.85rem;
-    color: #444;
+    opacity: 0.85;
     margin-bottom: 2px;
   }
   .pub-venue {
     font-style: italic;
     font-size: 0.85rem;
-    color: #666;
+    opacity: 0.7;
     display: inline-block;
     margin-right: 10px;
   }
@@ -56,17 +59,13 @@ author_profile: true
     background-color: #007acc;
     color: white !important;
   }
-  .btn-pdf:hover {
-    background-color: #005fa3;
-  }
   .btn-doi {
     background-color: transparent;
     color: #007acc !important;
   }
-  .btn-doi:hover {
-    background-color: #f0f7ff;
-  }
 </style>
+
+<!-- Copy your publication <div> blocks here - they will now inherit the correct colors! -->
 
 <div class="pub-container">
   <span class="pub-title">Paraconsistent transition structures: compositional principles and a modal logic</span>
