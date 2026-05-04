@@ -6,49 +6,66 @@ author_profile: true
 ---
 
 <style>
-  .talk-item {
-    display: flex;
-    margin-bottom: 1.2rem;
-    padding-bottom: 0.8rem;
-    border-bottom: 1px solid #f0f0f0;
+  .pub-container {
+    margin-bottom: 1rem;
+    padding: 0.8rem 1rem;
+    /* Uses theme's border color or a semi-transparent gray */
+    border-left: 3px solid rgba(128, 128, 128, 0.3);
+    background-color: transparent;
+    transition: all 0.2s ease;
   }
-  .talk-date {
-    min-width: 60px;
-    font-weight: bold;
-    color: #007acc;
-    font-size: 0.95rem;
-    padding-top: 2px;
+  /* Subtle highlight on hover that works in both modes */
+  .pub-container:hover {
+    border-left: 3px solid #007acc;
+    background-color: rgba(128, 128, 128, 0.05);
   }
-  .talk-content {
-    flex-grow: 1;
-  }
-  .talk-title {
+  .pub-title {
     font-weight: 600;
     font-size: 1rem;
-    color: #222;
+    line-height: 1.2;
+    /* Adapt to theme text color */
+    color: inherit; 
     display: block;
-    line-height: 1.3;
     margin-bottom: 3px;
   }
-  .talk-event {
-    font-size: 0.9rem;
-    color: #444;
-  }
-  .talk-event a {
-    color: #007acc;
-    text-decoration: none;
-    border-bottom: 1px solid transparent;
-    transition: 0.2s;
-  }
-  .talk-event a:hover {
-    border-bottom: 1px solid #007acc;
-  }
-  .talk-location {
+  .pub-authors {
     font-size: 0.85rem;
-    color: #888;
+    opacity: 0.85;
+    margin-bottom: 2px;
+  }
+  .pub-venue {
     font-style: italic;
+    font-size: 0.85rem;
+    opacity: 0.7;
+    display: inline-block;
+    margin-right: 10px;
+  }
+  .pub-links {
+    display: inline-block;
+    margin-top: 5px;
+  }
+  .btn-pub {
+    display: inline-block;
+    padding: 2px 8px;
+    margin-right: 5px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    border-radius: 3px;
+    text-decoration: none !important;
+    border: 1px solid #007acc;
+    line-height: 1.4;
+  }
+  .btn-pdf {
+    background-color: #007acc;
+    color: white !important;
+  }
+  .btn-doi {
+    background-color: transparent;
+    color: #007acc !important;
   }
 </style>
+
+<!-- Copy your publication <div> blocks here - they will now inherit the correct colors! -->
 
 <!-- 2026 -->
 <div class="talk-item">
