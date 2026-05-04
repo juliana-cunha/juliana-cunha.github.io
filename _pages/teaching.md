@@ -52,6 +52,7 @@ author_profile: true
     opacity: 0.5;
     position: relative;
   }
+  /* Updated Tooltip Styling for Longer Summaries */
   .info-icon:hover::after {
     content: attr(data-summary);
     position: absolute;
@@ -60,12 +61,15 @@ author_profile: true
     transform: translateX(-50%);
     background-color: #333;
     color: #fff;
-    padding: 8px;
-    border-radius: 4px;
-    width: 180px;
+    padding: 10px;
+    border-radius: 6px;
+    width: 220px; /* Slightly wider for your longer text */
     font-size: 0.75rem;
-    z-index: 10;
-    text-align: center;
+    z-index: 100;
+    text-align: left;
+    line-height: 1.4;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.4);
+    white-space: normal; /* Allows text to wrap nicely */
   }
   .sheet-list { display: flex; flex-wrap: wrap; gap: 10px; padding: 0.5rem 0; }
   .btn-sheet {
@@ -83,7 +87,6 @@ author_profile: true
 <div class="teaching-section">
   <div class="section-title">Apontamentos das aulas:</div>
 
-  <!-- 2026 / 2027 - OPEN BY DEFAULT -->
   <details open>
     <summary>2026 / 2027</summary>
     <div style="padding: 1rem; opacity: 0.6; font-size: 0.9rem;">
@@ -91,37 +94,39 @@ author_profile: true
     </div>
   </details>
 
-  <!-- 2025 / 2026 - REVERSE ORDER -->
   <details>
     <summary>2025 / 2026</summary>
     <div class="lesson-grid">
-      <!-- Starting from 27 down to 1 -->
-      <div class="lesson-item"><a href="/files/Aula 27.pdf" class="lesson-link">Aula 27</a><span class="info-icon" data-summary="Revisões Finais.">ⓘ</span></div>
-      <div class="lesson-item"><a href="/files/Aula 26.pdf" class="lesson-link">Aula 26</a><span class="info-icon" data-summary="Cónicas e Quádricas II.">ⓘ</span></div>
-      <div class="lesson-item"><a href="/files/Aula 25.pdf" class="lesson-link">Aula 25</a><span class="info-icon" data-summary="Cónicas e Quádricas I.">ⓘ</span></div>
-      <div class="lesson-item"><a href="/files/Aula 24.pdf" class="lesson-link">Aula 24</a><span class="info-icon" data-summary="Formas Quadráticas.">ⓘ</span></div>
-      <div class="lesson-item"><a href="/files/Aula 23.pdf" class="lesson-link">Aula 23</a><span class="info-icon" data-summary="Diagonalização.">ⓘ</span></div>
-      <div class="lesson-item"><a href="/files/Aula 22.pdf" class="lesson-link">Aula 22</a><span class="info-icon" data-summary="Valores e Vetores Próprios.">ⓘ</span></div>
-      <div class="lesson-item"><a href="/files/Aula 21.pdf" class="lesson-link">Aula 21</a><span class="info-icon" data-summary="Transformações Lineares III.">ⓘ</span></div>
-      <div class="lesson-item"><a href="/files/Aula 20.pdf" class="lesson-link">Aula 20</a><span class="info-icon" data-summary="Transformações Lineares II.">ⓘ</span></div>
-      <div class="lesson-item"><a href="/files/Aula 19.pdf" class="lesson-link">Aula 19</a><span class="info-icon" data-summary="Transformações Lineares I.">ⓘ</span></div>
-      <div class="lesson-item"><a href="/files/Aula 18.pdf" class="lesson-link">Aula 18</a><span class="info-icon" data-summary="Geometria Analítica II.">ⓘ</span></div>
-      <div class="lesson-item"><a href="/files/Aula 17.pdf" class="lesson-link">Aula 17</a><span class="info-icon" data-summary="Geometria Analítica I.">ⓘ</span></div>
-      <div class="lesson-item"><a href="/files/Aula 16.pdf" class="lesson-link">Aula 16</a><span class="info-icon" data-summary="Produtos Internos.">ⓘ</span></div>
-      <div class="lesson-item"><a href="/files/Aula 15.pdf" class="lesson-link">Aula 15</a><span class="info-icon" data-summary="Espaços Vetoriais III.">ⓘ</span></div>
-      <div class="lesson-item"><a href="/files/Aula 14.pdf" class="lesson-link">Aula 14</a><span class="info-icon" data-summary="Espaços Vetoriais II.">ⓘ</span></div>
-      <div class="lesson-item"><a href="/files/Aula 12.pdf" class="lesson-link">Aula 12</a><span class="info-icon" data-summary="Espaços Vetoriais I.">ⓘ</span></div>
-      <div class="lesson-item"><a href="/files/Aula 11.pdf" class="lesson-link">Aula 11</a><span class="info-icon" data-summary="Determinantes II.">ⓘ</span></div>
-      <div class="lesson-item"><a href="/files/Aula 10.pdf" class="lesson-link">Aula 10</a><span class="info-icon" data-summary="Determinantes I.">ⓘ</span></div>
-      <div class="lesson-item"><a href="/files/Aula 9.pdf" class="lesson-link">Aula 9</a><span class="info-icon" data-summary="Inversão de Matrizes.">ⓘ</span></div>
-      <div class="lesson-item"><a href="/files/Aula 8.pdf" class="lesson-link">Aula 8</a><span class="info-icon" data-summary="Matrizes Elementares.">ⓘ</span></div>
-      <div class="lesson-item"><a href="/files/Aula 7.pdf" class="lesson-link">Aula 7</a><span class="info-icon" data-summary="Operações com Matrizes II.">ⓘ</span></div>
-      <div class="lesson-item"><a href="/files/Aula 6.pdf" class="lesson-link">Aula 6</a><span class="info-icon" data-summary="Operações com Matrizes I.">ⓘ</span></div>
-      <div class="lesson-item"><a href="/files/Aula 5.pdf" class="lesson-link">Aula 5</a><span class="info-icon" data-summary="Sistemas de Equações II.">ⓘ</span></div>
-      <div class="lesson-item"><a href="/files/Aula 4.pdf" class="lesson-link">Aula 4</a><span class="info-icon" data-summary="Sistemas de Equações I.">ⓘ</span></div>
-      <div class="lesson-item"><a href="/files/Aula 3.pdf" class="lesson-link">Aula 3</a><span class="info-icon" data-summary="Eliminação de Gauss II.">ⓘ</span></div>
-      <div class="lesson-item"><a href="/files/Aula 2.pdf" class="lesson-link">Aula 2</a><span class="info-icon" data-summary="Eliminação de Gauss I.">ⓘ</span></div>
-      <div class="lesson-item"><a href="/files/Aula 1.pdf" class="lesson-link">Aula 1</a><span class="info-icon" data-summary="Introdução e Matrizes.">ⓘ</span></div>
+      <div class="lesson-item"><a href="/files/Aula 1.pdf" class="lesson-link">Aula 1</a><span class="info-icon" data-summary="Apresentação. Vetores em R^n. Definição e tipos de matrizes. Operações e propriedades.">ⓘ</span></div>
+      <div class="lesson-item"><a href="/files/Aula 2.pdf" class="lesson-link">Aula 2</a><span class="info-icon" data-summary="Revisão de sistemas lineares. Forma matricial e matriz ampliada. Pivot e matrizes escalonadas.">ⓘ</span></div>
+      <div class="lesson-item"><a href="/files/Aula 3.pdf" class="lesson-link">Aula 3</a><span class="info-icon" data-summary="Matrizes equivalentes e operações elementares. Métodos de Gauss e Gauss-Jordan. Característica.">ⓘ</span></div>
+      <div class="lesson-item"><a href="/files/Aula 4.pdf" class="lesson-link">Aula 4</a><span class="info-icon" data-summary="Sistemas homogéneos e espaço nulo: definição e exemplos práticos.">ⓘ</span></div>
+      <div class="lesson-item"><a href="/files/Aula 5.pdf" class="lesson-link">Aula 5</a><span class="info-icon" data-summary="Matriz inversa: definição, propriedades e cálculo. Teorema da invertibilidade.">ⓘ</span></div>
+      <div class="lesson-item"><a href="/files/Aula 6.pdf" class="lesson-link">Aula 6</a><span class="info-icon" data-summary="Matrizes elementares. Fatorização LU e decomposição LDU. Resolução de sistemas AX=B.">ⓘ</span></div>
+      <div class="lesson-item"><a href="/files/Aula 7.pdf" class="lesson-link">Aula 7</a><span class="info-icon" data-summary="Introdução a Espaços Vetoriais. Definição de subconjunto e subespaço vetorial.">ⓘ</span></div>
+      <div class="lesson-item"><a href="/files/Aula 8.pdf" class="lesson-link">Aula 8</a><span class="info-icon" data-summary="Combinação linear e espaço gerado. Teorema do subespaço vetorial e geradores.">ⓘ</span></div>
+      <div class="lesson-item"><a href="/files/Aula 9.pdf" class="lesson-link">Aula 9</a><span class="info-icon" data-summary="(In)dependência linear. Bases de um espaço vetorial, bases canónicas e coordenadas.">ⓘ</span></div>
+      <div class="lesson-item"><a href="/files/Aula 10.pdf" class="lesson-link">Aula 10</a><span class="info-icon" data-summary="Dimensão de espaços vetoriais. Matriz de mudança de base e Espaço das linhas.">ⓘ</span></div>
+      <div class="lesson-item"><a href="/files/Aula 11.pdf" class="lesson-link">Aula 11</a><span class="info-icon" data-summary="Aula de consolidação: resolução de exercícios dos Capítulos 1 e 2.">ⓘ</span></div>
+      <div class="lesson-item"><a href="/files/Aula 12.pdf" class="lesson-link">Aula 12</a><span class="info-icon" data-summary="Espaço nulo e espaço das colunas. Preparação para o Teste 1.">ⓘ</span></div>
+      
+      <!-- Aula 13 Skipped/Labeled as Revisions -->
+      <div class="lesson-item"><span class="lesson-link" style="color: #888 !important;">Aula 13</span><span class="info-icon" data-summary="Revisões gerais para avaliação.">ⓘ</span></div>
+
+      <div class="lesson-item"><a href="/files/Aula 14.pdf" class="lesson-link">Aula 14</a><span class="info-icon" data-summary="Determinantes: significado geométrico e propriedades. Regra de Sarrus e Teorema de Laplace.">ⓘ</span></div>
+      <div class="lesson-item"><a href="/files/Aula 15.pdf" class="lesson-link">Aula 15</a><span class="info-icon" data-summary="Matriz adjunta e cálculo da inversa. Relação entre invertibilidade e determinante.">ⓘ</span></div>
+      <div class="lesson-item"><a href="/files/Aula 16.pdf" class="lesson-link">Aula 16</a><span class="info-icon" data-summary="Aplicações: Modelo de Leontief. Exercícios práticos de determinantes.">ⓘ</span></div>
+      <div class="lesson-item"><a href="/files/Aula 17.pdf" class="lesson-link">Aula 17</a><span class="info-icon" data-summary="Continuação da matéria e exercícios práticos.">ⓘ</span></div>
+      <div class="lesson-item"><a href="/files/Aula 18.pdf" class="lesson-link">Aula 18</a><span class="info-icon" data-summary="Produto interno e externo. Projeção ortogonal. Geometria analítica em R^3: retas, planos e distâncias.">ⓘ</span></div>
+      <div class="lesson-item"><a href="/files/Aula 19.pdf" class="lesson-link">Aula 19</a><span class="info-icon" data-summary="Mínimos quadrados e melhor aproximação. Equações normais e erro associado.">ⓘ</span></div>
+      <div class="lesson-item"><a href="/files/Aula 20.pdf" class="lesson-link">Aula 20</a><span class="info-icon" data-summary="Valores e vetores próprios: definições, cálculo e intuição.">ⓘ</span></div>
+      <div class="lesson-item"><a href="/files/Aula 21.pdf" class="lesson-link">Aula 21</a><span class="info-icon" data-summary="Diagonalização de matrizes. Matrizes semelhantes e potências de matrizes.">ⓘ</span></div>
+      <div class="lesson-item"><a href="/files/Aula 22.pdf" class="lesson-link">Aula 22</a><span class="info-icon" data-summary="Matrizes simétricas e diagonalização ortogonal. Subespaços próprios.">ⓘ</span></div>
+      <div class="lesson-item"><a href="/files/Aula 23.pdf" class="lesson-link">Aula 23</a><span class="info-icon" data-summary="Formas quadráticas e Critério de Sylvester. Introdução às Cónicas.">ⓘ</span></div>
+      <div class="lesson-item"><a href="/files/Aula 24.pdf" class="lesson-link">Aula 24</a><span class="info-icon" data-summary="Redução de equações de cónicas: rotação e translação de eixos.">ⓘ</span></div>
+      <div class="lesson-item"><a href="/files/Aula 25.pdf" class="lesson-link">Aula 25</a><span class="info-icon" data-summary="Quádricas: elipsóides, parabolóides e hiperbolóides. Simplificação de superfícies.">ⓘ</span></div>
+      <div class="lesson-item"><a href="/files/Aula 26.pdf" class="lesson-link">Aula 26</a><span class="info-icon" data-summary="Aplicações lineares: definições, exemplos e matriz associada a uma aplicação.">ⓘ</span></div>
+      <div class="lesson-item"><a href="/files/Aula 27.pdf" class="lesson-link">Aula 27</a><span class="info-icon" data-summary="Revisões finais dos Capítulos 3 a 6.">ⓘ</span></div>
     </div>
     <div style="padding: 0 1rem 1rem; font-size: 0.85rem; border-top: 1px solid rgba(128, 128, 128, 0.1); padding-top: 10px;">
       <strong>Apontamentos extra:</strong> <br>
@@ -132,7 +137,6 @@ author_profile: true
     </div>
   </details>
 
-  <!-- 2024 / 2025 -->
   <details>
     <summary>2024 / 2025</summary>
     <div style="padding: 1rem; opacity: 0.6; font-size: 0.9rem;">Arquivo histórico (parcial).</div>
