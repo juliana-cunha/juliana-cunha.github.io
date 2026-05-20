@@ -1,3 +1,15 @@
+---
+
+layout: archive
+
+title: "Publications"
+
+permalink: /publications/
+
+author_profile: true
+
+---
+
 <style>
   .pub-container {
     margin-bottom: 0.8rem; /* Reduced margin */
