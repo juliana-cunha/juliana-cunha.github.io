@@ -7,14 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-You can find me at the University of Aveiro, where I do research on paraconsistent logic, automata theory, lattice theory, and formal specification. My work mainly focuses on developing paraconsistent frameworks to reason about inconsistent information in a controlled and sound manner.
+You can find me at the University of Aveiro, where I do research on paraconsistent logic, and formal specification. My work mainly focuses on developing paraconsistent frameworks to reason about inconsistent information in a controlled and sound manner.
 
 For my updated curriculum, please visit my [CiênciaVitae](https://www.cienciavitae.pt/en/9D1E-9BD4-3F9E).
 
-
 Education
 ------
-- PhD in Mathematics, University of Aveiro (2023-2029)
+- PhD in Mathematics, University of Aveiro (2023--)
 - Msc in Mathematics and Applications, University of Aveiro (2020-2023)
 - Bachelors in Mathematics, FCUP, University of Porto (2017-2020)
 
