@@ -65,6 +65,13 @@ author_profile: true
   <div class="talk-date">2026</div>
   <div class="talk-content-wrapper">
     <div class="talk-inner-entry">
+      <span class="talk-title">"First Steps in a Paraconsistent Transition Systems Toolkit"</span>
+      <div class="talk-details">
+        <span class="talk-event"><a href="https://tase2026.github.io/" target="_blank">TASE 2026</a></span>, 
+        <div class="talk-location">Dishui Lake International Software Institute, </div>
+      </div>
+    </div>
+    <div class="talk-inner-entry">
       <span class="talk-title">"Modal invariant relations for paraconsistent transition systems"</span>
       <div class="talk-details">
         <span class="talk-event"><a href="https://w3.math.uminho.pt/DiL2026/index.html" target="_blank">Days in Logic 2026</a></span>, 
