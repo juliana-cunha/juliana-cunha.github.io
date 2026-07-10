@@ -26,6 +26,7 @@ Projects and Grants
 
 Events
 ------
+- [The 20th Theoretical Aspects of Software Engineering Conference](https://tase2026.github.io/index.html), Dishui Lake International Software Institute (2026)
 - [Days in Logic 2026](https://w3.math.uminho.pt/DiL2026/index.html), University of Minho (2026)
 - 5th Annual Meeting of DMat-UA PhD Students (Chair), University of Aveiro (2025)
 - XV Portuguese Category Seminar, University of Aveiro (2025)
