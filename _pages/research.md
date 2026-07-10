@@ -66,6 +66,17 @@ author_profile: true
   }
 </style>
 
+
+<div class="pub-container">
+  <span class="pub-title">First Steps in a Paraconsistent Transition Systems Toolkit.</span>
+  <div class="pub-authors">Rodrigo Alves, Juliana Cunha, Alexandre Madeira</div>
+  <span class="pub-venue">Mathematical Structures in Computer Science, vol. 35, p. e14, 2025</span>
+  <div class="pub-links">
+    <a href="https://juliana-cunha.github.io/files/papers/TASE26.pdf" class="btn-pub btn-pdf">PDF</a>
+    <a href="https://doi.org/10.1017/S0960129525100170" class="btn-pub btn-doi" target="_blank">DOI</a>
+  </div>
+</div>
+
 <div class="pub-container">
   <span class="pub-title">Paraconsistent transition structures: compositional principles and a modal logic</span>
   <div class="pub-authors">Juliana Cunha, Alexandre Madeira, Luís S. Barbosa</div>
