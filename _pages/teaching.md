@@ -97,8 +97,9 @@ author_profile: true
   <details>
     <summary>2025 / 2026</summary>
     <div class="lesson-grid">
-      <div class="lesson-item"><a href="/files/Aula 1.pdf" class="lesson-link">Aula 1</a><span class="info-icon" data-summary="Apresentação. Vetores em R^n. Definição e tipos de matrizes. Operações e propriedades.">ⓘ</span></div>
-      <div class="lesson-item"><a href="/files/Aula 2.pdf" class="lesson-link">Aula 2</a><span class="info-icon" data-summary="Revisão de sistemas lineares. Forma matricial e matriz ampliada. Pivot e matrizes escalonadas.">ⓘ</span></div>
+      <div class="lesson-item"><a href="/files/Aula 1.pdf" class="lesson-link">Aula 1</a><span class="info-icon" data-summary="Apresentação do funcionamento da unidade curricular. Vetores em R^n. Matrizes: definição, intuição geométrica, matriz nula, matriz coluna e linha, matriz quadrada e diagonal, matriz identidade, matriz triangular. Operações com matrizes: transposta, adição, multiplicação por um escalar, multiplicação, potência de matrizes quadradas. Propriedades das operações com matrizes.">ⓘ</span></div>
+      <div class="lesson-item"><a href="/files/Aula 2.pdf" class="lesson-link">Aula 2</a><span class="info-icon" data-summary="Revisão de sistemas lineares: definição, sistemas homogéneos, classificação e resolução. Sistemas lineares na forma matricial. Matriz ampliada de um sistema. Definição de pivot. Matriz escalonada por linhas e matriz escalonada por linhas reduzida.
+Resolução da FP1 ex. 1(d), 1(f) e 7.">ⓘ</span></div>
       <div class="lesson-item"><a href="/files/Aula 3.pdf" class="lesson-link">Aula 3</a><span class="info-icon" data-summary="Matrizes equivalentes e operações elementares. Métodos de Gauss e Gauss-Jordan. Característica.">ⓘ</span></div>
       <div class="lesson-item"><a href="/files/Aula 4.pdf" class="lesson-link">Aula 4</a><span class="info-icon" data-summary="Sistemas homogéneos e espaço nulo: definição e exemplos práticos.">ⓘ</span></div>
       <div class="lesson-item"><a href="/files/Aula 5.pdf" class="lesson-link">Aula 5</a><span class="info-icon" data-summary="Matriz inversa: definição, propriedades e cálculo. Teorema da invertibilidade.">ⓘ</span></div>
