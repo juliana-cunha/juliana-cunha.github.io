@@ -11,7 +11,7 @@ I am a PhD student in the [Mathematics Doctoral Program](https://www.ua.pt/en/cu
 
 **Research Interests:** Paraconsistent Logic · Formal Methods · Twist Structures · Bilattices.
 **Email:** [juliana.cunha@ua.pt](mailto:juliana.cunha@ua.pt) (feel free to reach out)
-**CV:** [View](https://juliana-cunha.github.io/files/CV.pdf).
+[**View my CV**](https://juliana-cunha.github.io/files/CV.pdf).
 
 
 Projects and Grants
@@ -22,11 +22,12 @@ Projects and Grants
 - **PhD Grant**, [PRR - Plano de Recuperação e Resiliência](https://recuperarportugal.gov.pt/) (2023–2024)
 
 
-I have been To...
+I have been to...
 ------
 
 | Event | Location | Date |
 | :--- | :--- | :--- |
+| [TACL26 Summer School](https://iphils.uj.edu.pl/tacl/#school) | Institute of Psychology of the Jagiellonian University, PL | 2026 |
 | [Days in Logic 2026](https://w3.math.uminho.pt/DiL2026/index.html) | University of Minho, PT | 2026 |
 | 5th Annual Meeting of DMat-UA PhD Students (Chair) | University of Aveiro, PT | 2025 |
 | XV Portuguese Category Seminar | University of Aveiro, PT | 2025 |
