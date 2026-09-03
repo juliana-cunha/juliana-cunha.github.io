@@ -42,18 +42,10 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Recolor body links AND date headings in Dark Mode */
-[data-theme="dark"] #main a,
-[data-theme="dark"] #main .archive__item-teaser,
-[data-theme="dark"] #main time,
-body.dark-mode #main a,
-body.dark-mode #main .archive__item-teaser,
-body.dark-mode #main time {
-  color: #4dd0e1;
-}
 
-/* Keep sidebar untouched */
-[data-theme="dark"] .sidebar a,
-body.dark-mode .sidebar a {
-  color: inherit;
+[data-theme="dark"] #main h2,
+[data-theme="dark"] #main h3,
+body.dark-mode #main h2,
+body.dark-mode #main h3 {
+  color: #4dd0e1;
 }
