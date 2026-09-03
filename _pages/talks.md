@@ -15,13 +15,13 @@ author_profile: true
     transition: all 0.2s ease;
   }
   .talk-group:hover {
-    border-left: 3px solid #007acc;
+    border-left: 3px solid #0e9aa7; /* Updated to Teal */
     background-color: rgba(128, 128, 128, 0.05);
   }
   .talk-date {
     min-width: 55px; /* Fixed column width for years */
     font-weight: 700;
-    color: #007acc;
+    color: #0e9aa7; /* UPDATED TO TEAL HERE */
     font-size: 0.95rem;
     line-height: 1.3;
   }
@@ -47,7 +47,7 @@ author_profile: true
     line-height: 1.4;
   }
   .talk-event a {
-    color: #007acc;
+    color: #0e9aa7; /* UPDATED TO TEAL HERE */
     text-decoration: none !important;
     font-weight: 500;
   }
