@@ -42,10 +42,12 @@
     "vendor/font-awesome/brands"
 ;
 
+/* Single link color for both light and dark mode */
+#main a {
+  color: #0e9aa7;
+  text-decoration: underline;
+}
 
-[data-theme="dark"] #main h2,
-[data-theme="dark"] #main h3,
-body.dark-mode #main h2,
-body.dark-mode #main h3 {
-  color: #4dd0e1;
+#main a:hover {
+  color: #065c66; /* Slightly darker shade when hovering */
 }
