@@ -41,3 +41,13 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Custom link colors for dark mode */
+a {
+  color: #64b5f6 !important; /* Brighter, accessible blue */
+  text-decoration: underline; /* Optional: adds subtle visual indicator */
+}
+
+a:hover {
+  color: #90caf9 !important; /* Glow effect on hover */
+}
