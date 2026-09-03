@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Mathematics Doctoral Program](https://www.ua.pt/en/curso/210) at the University of Aveiro, supervised by [Alexandre Madeira](https://sweet.ua.pt/madeira/) and [Luís S. Barbosa](https://www.di.uminho.pt/~lsb/). Previously, I completed an MSc in Mathematics and Applications at the University of Aveiro and a BSc in Mathematics at FCUP, University of Porto.  You can find my complete **CV** [here](http://juliana-cunha.github.io/files/CV.pdf).
+I am a PhD student in the [Mathematics Doctoral Program](https://www.ua.pt/en/curso/210) at the University of Aveiro, supervised by [Alexandre Madeira](https://sweet.ua.pt/madeira/) and [Luís S. Barbosa](https://www.di.uminho.pt/~lsb/). Previously, I completed an MSc in Mathematics and Applications at the University of Aveiro and a BSc in Mathematics at FCUP, University of Porto.  You can find my complete **CV** [here](http://juliana-cunha.github.io/files/main.pdf).
 
 **Research Interests:** Paraconsistent Logic · Formal Methods · Twist Structures · Bilattices. <br>
 **Email:** [juliana.cunha@ua.pt](mailto:juliana.cunha@ua.pt) (feel free to reach out)
