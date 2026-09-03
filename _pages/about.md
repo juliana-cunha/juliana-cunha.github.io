@@ -34,6 +34,7 @@ I have been to...
 | [SEFM24](https://sefm-conference.github.io/2024/) (Local Organisation) | University of Aveiro, PT | 2024 |
 | [4th Annual Meeting of DMat-UA PhD Students](https://sites.google.com/view/eaed-dmat-ua/last-editions/2024?authuser=0) (Chair) | University of Aveiro, PT | 2024 |
 | [LSFA24](https://sites.google.com/ufg.br/lsfa2024) | Universidade Federal de Goiás, BR | 2024 |
+| [Days in Logic 2024](https://www.math.tecnico.ulisboa.pt/~css/daysinlogic2024/home) | Técnico ULisboa, PT | 2024 |
 | [TASE23](bristolpl.github.io/tase2023/) | University of Bristol, UK | 2023 |
 | [FSEN23](https://fsen.ir/2023/) | IPM, IR | 2023 |
 | Spring Meeting in Logic and Semantics | University of Aveiro, PT | 2023 |
