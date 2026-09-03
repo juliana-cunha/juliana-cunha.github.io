@@ -42,12 +42,14 @@
     "vendor/font-awesome/brands"
 ;
 
+
+
 /* Custom link colors for dark mode */
 a {
-  color: #64b5f6 !important; /* Brighter, accessible blue */
-  text-decoration: underline; /* Optional: adds subtle visual indicator */
+  color: #4dd0e1 !important; /* Vibrant teal/cyan */
+  text-decoration: underline;
 }
 
 a:hover {
-  color: #90caf9 !important; /* Glow effect on hover */
+  color: #80deea !important; /* Lighter glow on hover */
 }
