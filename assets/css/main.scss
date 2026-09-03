@@ -44,12 +44,23 @@
 
 
 
-/* Custom link colors for dark mode */
+/* Light Mode (Default) */
 a {
-  color: #4dd0e1 !important; /* Vibrant teal/cyan */
+  color: #0366d6 !important;
   text-decoration: underline;
 }
 
 a:hover {
-  color: #80deea !important; /* Lighter glow on hover */
+  color: #0056b3 !important;
+}
+
+/* Dark Mode (When dark theme is active) */
+body.dark-mode a, 
+[data-theme="dark"] a {
+  color: #4dd0e1 !important;
+}
+
+body.dark-mode a:hover, 
+[data-theme="dark"] a:hover {
+  color: #80deea !important;
 }
