@@ -7,17 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Mathematics Doctoral Program](https://www.ua.pt/en/curso/210) at the University of Aveiro, supervised by [Alexandre Madeira](https://sweet.ua.pt/madeira/) and [Luís S. Barbosa](https://www.di.uminho.pt/~lsb/). Previously, I completed an MSc in Mathematics and Applications at the University of Aveiro and a BSc in Mathematics at FCUP, University of Porto.  You can find my complete **CV** [here](http://juliana-cunha.github.io/files/main.pdf).
+I am a PhD student in the [Mathematics Doctoral Program](https://www.ua.pt/en/curso/210) at the University of Aveiro, supervised by [Alexandre Madeira](https://sweet.ua.pt/madeira/) and [Luís S. Barbosa](https://www.di.uminho.pt/~lsb/) and supported by an Phd FCT Grant. Previously, I completed an MSc in Mathematics and Applications at the University of Aveiro and a BSc in Mathematics at FCUP, University of Porto.  You can find my complete **CV** [here](http://juliana-cunha.github.io/files/main.pdf).
 
-**Research Interests:** Paraconsistent Logic · Formal Methods · Twist Structures · Bilattices. <br>
+**Research Interests:** Paraconsistent Logic · Formal Methods · Twist Structures · Bilattices. 
+
 **Email:** [juliana.cunha@ua.pt](mailto:juliana.cunha@ua.pt) (feel free to reach out)
-
-Projects and Grants
-------
-- Collaborator in [Banksy](http://lmf.di.uminho.pt/Bansky/)- A paraconsistent inference engine to support research in age-related macular degeneration (2025-2029)
-- PhD Grant by [FCT](https://www.fct.pt/) (2025-2029)
-- Collaborator in [Ibex](https://lmf.di.uminho.pt//Ibex/)- Quantitative methods for cyber-physical programming (2023-2025)
-- PhD Grant by [PRR- Plano de Recuperação e Resiliência](https://recuperarportugal.gov.pt/) (2023-2024)
 
 
 I have been to...
@@ -40,5 +34,15 @@ I have been to...
 | Spring Meeting in Logic and Semantics | University of Aveiro, PT | 2023 |
 | UNESCO World Logic Day | University of Aveiro, PT | 2023 |
 | A First Contact with Quantum Computing | University of Aveiro, PT | 2022 |
+
+
+<!--Projects and Grants
+------
+- Collaborator in [Banksy](http://lmf.di.uminho.pt/Bansky/)- A paraconsistent inference engine to support research in age-related macular degeneration (2025-2029)
+- PhD Grant by [FCT](https://www.fct.pt/) (2025-2029)
+- Collaborator in [Ibex](https://lmf.di.uminho.pt//Ibex/)- Quantitative methods for cyber-physical programming (2023-2025)
+- PhD Grant by [PRR- Plano de Recuperação e Resiliência](https://recuperarportugal.gov.pt/) (2023-2024) -->
+
+
 | Third World Logic Day in Aveiro | University of Aveiro, PT | 2022 |
 | Hands-on Quantum Computing with Qiskit | University of Aveiro, PT | 2021 |
