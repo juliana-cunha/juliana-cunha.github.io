@@ -43,9 +43,14 @@
 ;
 
 
-
-/* Only recolor main text links when Dark Mode is active */
-[data-theme="dark"] .page__content a,
-body.dark-mode .page__content a {
+/* Recolor all main body & archive links in Dark Mode */
+[data-theme="dark"] #main a,
+body.dark-mode #main a {
   color: #4dd0e1;
+}
+
+/* Keep the sidebar links unchanged in dark mode */
+[data-theme="dark"] .sidebar a,
+body.dark-mode .sidebar a {
+  color: inherit;
 }
