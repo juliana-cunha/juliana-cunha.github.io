@@ -42,17 +42,21 @@
     "vendor/font-awesome/brands"
 ;
 
-a {
+/* Target links only within the main content/about area */
+.page__content a,
+.archive a,
+article a {
   color: inherit !important;
   text-decoration: underline !important;
 }
 
-/* Optional: Keep hover states clean */
-a:hover, a:focus {
+/* Ensure hover states remain consistent */
+.page__content a:hover,
+.archive a:hover,
+article a:hover {
   color: inherit !important;
   text-decoration: underline !important;
 }
-
 #main a:hover {
   color: #065c66; /* Slightly darker shade when hovering */
 }
