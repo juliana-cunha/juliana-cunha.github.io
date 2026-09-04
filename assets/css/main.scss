@@ -42,10 +42,15 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Single link color for both light and dark mode */
-#main a {
-  color: #0e9aa7;
-  text-decoration: underline;
+a {
+  color: inherit !important;
+  text-decoration: underline !important;
+}
+
+/* Optional: Keep hover states clean */
+a:hover, a:focus {
+  color: inherit !important;
+  text-decoration: underline !important;
 }
 
 #main a:hover {
