@@ -26,21 +26,22 @@ author_profile: true
     cursor: pointer;
     background-color: var(--global-code-background-color, rgba(128, 128, 128, 0.05));
   }
+  /* Grelha configurada para 9 colunas fixas em ecrãs normais */
   .lesson-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
-    gap: 8px;
+    grid-template-columns: repeat(9, 1fr);
+    gap: 6px;
     padding: 1rem;
   }
   .lesson-item {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 6px 10px;
+    padding: 4px 6px; /* Reduzido para encolher o tamanho do retângulo */
     background: color-mix(in srgb, var(--global-link-color, #007acc) 12%, transparent);
     border: 1px solid color-mix(in srgb, var(--global-link-color, #007acc) 30%, transparent);
     border-radius: 4px;
-    font-size: 0.9rem;
+    font-size: 0.82rem; /* Ligeiramente menor para caber confortavelmente */
     text-align: center;
   }
   .lesson-link {
@@ -48,11 +49,21 @@ author_profile: true
     color: var(--global-link-color, #007acc) !important;
     font-weight: 500;
     width: 100%;
+    white-space: nowrap;
   }
   .lesson-disabled {
     color: var(--global-text-color-light, #888) !important;
     font-weight: 500;
+    white-space: nowrap;
   }
+  
+  /* Ajuste automático para telemóveis para não esmagar os botões */
+  @media (max-width: 768px) {
+    .lesson-grid {
+      grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+    }
+  }
+
   .sheet-list { display: flex; flex-wrap: wrap; gap: 10px; padding: 0.5rem 0; }
   .btn-sheet {
     padding: 5px 12px;
@@ -68,7 +79,6 @@ author_profile: true
   }
   .resource-card { display: inline-flex; align-items: center; margin-right: 15px; font-size: 0.9rem; opacity: 0.9; }
 </style>
-
 <!-- SECTION 1: APONTAMENTOS -->
 <div class="teaching-section">
   <div class="section-title">Apontamentos das aulas:</div>
@@ -83,18 +93,18 @@ author_profile: true
   <details>
     <summary>2025 / 2026</summary>
     <div class="lesson-grid">
-      <div class="lesson-item"><a href="/files/Aula 1.pdf" class="lesson-link">Aula 1</a></div>
-      <div class="lesson-item"><a href="/files/Aula 2.pdf" class="lesson-link">Aula 2</a></div>
-      <div class="lesson-item"><a href="/files/Aula 3.pdf" class="lesson-link">Aula 3</a></div>
-      <div class="lesson-item"><a href="/files/Aula 4.pdf" class="lesson-link">Aula 4</a></div>
-      <div class="lesson-item"><a href="/files/Aula 5.pdf" class="lesson-link">Aula 5</a></div>
-      <div class="lesson-item"><a href="/files/Aula 6.pdf" class="lesson-link">Aula 6</a></div>
-      <div class="lesson-item"><a href="/files/Aula 7.pdf" class="lesson-link">Aula 7</a></div>
-      <div class="lesson-item"><a href="/files/Aula 8.pdf" class="lesson-link">Aula 8</a></div>
-      <div class="lesson-item"><a href="/files/Aula 9.pdf" class="lesson-link">Aula 9</a></div>
-      <div class="lesson-item"><a href="/files/Aula 10.pdf" class="lesson-link">Aula 10</a></div>
-      <div class="lesson-item"><a href="/files/Aula 11.pdf" class="lesson-link">Aula 11</a></div>
-      <div class="lesson-item"><a href="/files/Aula 12.pdf" class="lesson-link">Aula 12</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2025/Aula_1.pdf" class="lesson-link">Aula 1</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2025/Aula_2.pdf" class="lesson-link">Aula 2</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2025/Aula_3.pdf" class="lesson-link">Aula 3</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2025/Aula_4.pdf" class="lesson-link">Aula 4</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2025/Aula_5.pdf" class="lesson-link">Aula 5</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2025/Aula_6.pdf" class="lesson-link">Aula 6</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2025/Aula_7.pdf" class="lesson-link">Aula 7</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2025/Aula_8.pdf" class="lesson-link">Aula 8</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2025/Aula_9.pdf" class="lesson-link">Aula 9</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2025/Aula_10.pdf" class="lesson-link">Aula 10</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2025/Aula_11.pdf" class="lesson-link">Aula 11</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2025/Aula_12.pdf" class="lesson-link">Aula 12</a></div>
       
       <!-- Aula 13 Skipped/Labeled as Revisions -->
       <div class="lesson-item"><span class="lesson-disabled">Aula 13</span></div>
