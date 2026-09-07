@@ -105,24 +105,21 @@ author_profile: true
       <div class="lesson-item"><a href="/files/ALGA/2025/Aula_10.pdf" class="lesson-link">Aula 10</a></div>
       <div class="lesson-item"><a href="/files/ALGA/2025/Aula_11.pdf" class="lesson-link">Aula 11</a></div>
       <div class="lesson-item"><a href="/files/ALGA/2025/Aula_12.pdf" class="lesson-link">Aula 12</a></div>
-      
-      <!-- Aula 13 Skipped/Labeled as Revisions -->
-      <div class="lesson-item"><span class="lesson-disabled">Aula 13</span></div>
-
-      <div class="lesson-item"><a href="/files/Aula 14.pdf" class="lesson-link">Aula 14</a></div>
-      <div class="lesson-item"><a href="/files/Aula 15.pdf" class="lesson-link">Aula 15</a></div>
-      <div class="lesson-item"><a href="/files/Aula 16.pdf" class="lesson-link">Aula 16</a></div>
-      <div class="lesson-item"><a href="/files/Aula 17.pdf" class="lesson-link">Aula 17</a></div>
-      <div class="lesson-item"><a href="/files/Aula 18.pdf" class="lesson-link">Aula 18</a></div>
-      <div class="lesson-item"><a href="/files/Aula 19.pdf" class="lesson-link">Aula 19</a></div>
-      <div class="lesson-item"><a href="/files/Aula 20.pdf" class="lesson-link">Aula 20</a></div>
-      <div class="lesson-item"><a href="/files/Aula 21.pdf" class="lesson-link">Aula 21</a></div>
-      <div class="lesson-item"><a href="/files/Aula 22.pdf" class="lesson-link">Aula 22</a></div>
-      <div class="lesson-item"><a href="/files/Aula 23.pdf" class="lesson-link">Aula 23</a></div>
-      <div class="lesson-item"><a href="/files/Aula 24.pdf" class="lesson-link">Aula 24</a></div>
-      <div class="lesson-item"><a href="/files/Aula 25.pdf" class="lesson-link">Aula 25</a></div>
-      <div class="lesson-item"><a href="/files/Aula 26.pdf" class="lesson-link">Aula 26</a></div>
-      <div class="lesson-item"><a href="/files/Aula 27.pdf" class="lesson-link">Aula 27</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2025/Aula_13.pdf" class="lesson-link">Aula 13</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2025/Aula_14.pdf" class="lesson-link">Aula 14</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2025/Aula_15.pdf" class="lesson-link">Aula 15</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2025/Aula_16.pdf" class="lesson-link">Aula 16</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2025/Aula_17.pdf" class="lesson-link">Aula 17</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2025/Aula_18.pdf" class="lesson-link">Aula 18</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2025/Aula_19.pdf" class="lesson-link">Aula 19</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2025/Aula_20.pdf" class="lesson-link">Aula 20</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2025/Aula_21.pdf" class="lesson-link">Aula 21</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2025/Aula_22.pdf" class="lesson-link">Aula 22</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2025/Aula_23.pdf" class="lesson-link">Aula 23</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2025/Aula_24.pdf" class="lesson-link">Aula 24</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2025/Aula_25.pdf" class="lesson-link">Aula 25</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2025/Aula_26.pdf" class="lesson-link">Aula 26</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2025/Aula_27.pdf" class="lesson-link">Aula 27</a></div>
     </div>
     <div style="padding: 0 1rem 1rem; font-size: 0.85rem; border-top: 1px solid var(--global-border-color, rgba(128, 128, 128, 0.1)); padding-top: 10px;">
       <strong>Apontamentos extra:</strong> <br>
