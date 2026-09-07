@@ -2,23 +2,23 @@
    CONTRAST THEME - DARK VERSION
    ========================================================================== */
 /* Color codes used for the theme */
-$primary-color              : #ff6c60;
+$primary-color              : #b388ff;
 $background                 : #000000;
 $background-light           : #1a1a1a;
 $background-lighter         : #2a2a2a;
-$text                      : #ffffff;
-$text-muted                : #d9d9d9;
-$link                      : #96cbfe;
-$link-dark                 : #c6c5fe;
-$link-light                : #ff73fd;
-$footer                    : #000000;
-$border                    : #4d4d4d;
-$border-light              : #666666;
-$selection-bg              : #264f78;
-$selection-text            : #ffffff;
+$text                       : #ffffff;
+$text-muted                 : #d9d9d9;
+$link                       : #96cbfe;
+$link-dark                  : #c6c5fe;
+$link-light                 : #ff73fd;
+$footer                     : #000000;
+$border                     : #4d4d4d;
+$border-light               : #666666;
+$selection-bg               : #264f78;
+$selection-text             : #ffffff;
 
 /* Color codes used for the site */
-$danger-color               : #ff6c60;
+$danger-color               : #b388ff;
 $info-color                 : #96cbfe;
 $notice-color               : #ffffff;
 $success-color              : #a8ff60;
@@ -107,7 +107,7 @@ html[data-theme="dark"] {
     }
 
     .notice--danger {
-      background-color: mix($background, $danger-color, 85%);      
+      background-color: mix($background, $danger-color, 85%);     
       color: #{$text};
       border-color: #{$text};
     }
