@@ -126,7 +126,7 @@ author_profile: true
       • <a href="/files/ALGA/Revisão_sistemas_lineares.pdf">Slides Revisão Sistemas (Cap.1)</a> 
       • <a href="/files/ALGA/Retas_Planos_e_distancias.pdf">Retas, Planos e Distâncias (Cap.4)</a> 
       • <a href="/files/ALGA/classificacao_formasquadraticas.pdf">Formas Quadráticas (Cap.5.2)</a>
-      • <a href="/files/ALGA/Cónicas_Quadricas.pdf">Equações: Cónicas e Quádricas (Cap.5.3)</a>
+      • <a href="/files/ALGA/Cónicas_Quadricas.pdf">Cónicas e Quádricas (Cap.5.3)</a>
     </div>
   </details>
 </div>
