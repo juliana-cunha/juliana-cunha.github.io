@@ -123,10 +123,10 @@ author_profile: true
     </div>
     <div style="padding: 0 1rem 1rem; font-size: 0.85rem; border-top: 1px solid var(--global-border-color, rgba(128, 128, 128, 0.1)); padding-top: 10px;">
       <strong>Apontamentos extra:</strong> <br>
-      • <a href="/files/ALGA/Revisão_sistemas_lineares.pdf">Slides Revisão Sistemas</a> 
-      • <a href="/files/ALGA/Retas__Planos_e_distâncias.pdf">Retas, Planos e Distâncias</a> 
-      • <a href="/files/ALGA/classificacao_formasquadraticas.pdf">Formas Quadráticas</a>
-      • <a href="/files/ALGA/Cónicas_Quadricas.pdf">Equações: Cónicas e Quádricas</a>
+      • <a href="/files/ALGA/Revisão_sistemas_lineares.pdf">Slides Revisão Sistemas (Cap.1)</a> 
+      • <a href="/files/ALGA/Retas_Planos_e_distancias.pdf">Retas, Planos e Distâncias (Cap.4)</a> 
+      • <a href="/files/ALGA/classificacao_formasquadraticas.pdf">Formas Quadráticas (Cap.5.2)</a>
+      • <a href="/files/ALGA/Cónicas_Quadricas.pdf">Equações: Cónicas e Quádricas (Cap.5.3)</a>
     </div>
   </details>
 </div>
