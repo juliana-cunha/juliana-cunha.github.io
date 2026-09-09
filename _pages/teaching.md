@@ -132,7 +132,7 @@ author_profile: true
 </div>
 
 <!-- SECTION 2: FOLHAS PRÁTICAS -->
-<div class="teaching-section">
+<!--<div class="teaching-section">
   <div class="section-title">Notas dos exercícios das Folhas Práticas:</div>
   <div class="sheet-list">
     <a href="/files/FP1_res.pdf" class="btn-sheet">FP1</a>
@@ -145,7 +145,7 @@ author_profile: true
   </div>
 </div>
 
-<hr style="opacity: 0.2; border-color: var(--global-border-color, #ccc);">
+<hr style="opacity: 0.2; border-color: var(--global-border-color, #ccc);">-->
 
 <!-- SECTION 3: ADDITIONAL LINKS -->
 <div class="teaching-section">
