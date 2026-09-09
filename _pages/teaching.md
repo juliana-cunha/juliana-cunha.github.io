@@ -85,8 +85,8 @@ author_profile: true
 
   <details open>
     <summary>2026 / 2027</summary>
-    <div style="padding: 1rem; opacity: 0.6; font-size: 0.9rem;">
-      As aulas serão disponibilizadas à medida que o semestre decorre.
+    <div class="lesson-grid">
+      <div class="lesson-item"><a href="/files/ALGA/2026/Aula_1.pdf" class="lesson-link">Aula 1</a></div>
     </div>
   </details>
 
