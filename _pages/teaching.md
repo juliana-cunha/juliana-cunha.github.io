@@ -87,6 +87,7 @@ author_profile: true
     <summary>2026 / 2027</summary>
     <div class="lesson-grid">
       <div class="lesson-item"><a href="/files/ALGA/2026/Aula_1.pdf" class="lesson-link">Aula 1</a></div>
+      <div class="lesson-item"><a href="/files/ALGA/2026/Aula_2.pdf" class="lesson-link">Aula 2</a></div>
     </div>
   </details>
 
