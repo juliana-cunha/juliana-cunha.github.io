@@ -66,6 +66,15 @@ author_profile: true
   }
 </style>
 
+<div class="pub-container">
+  <span class="pub-title">Paraconsistent Reactive Graphs: Their Semantics and Conflict Resolution Policies.</span>
+  <div class="pub-authors">Juliana Cunha, Alexandre Madeira, Luís S. Barbosa</div>
+  <span class="pub-venue">Journal of Applied Logics -- IfCoLog Journal, vol. 13, issue 4, p. 507-554, 2026</span>
+  <div class="pub-links">
+    <a href="https://juliana-cunha.github.io/files/papers/ReacTS24_extended.pdf" class="btn-pub btn-pdf">PDF</a>
+    <a href="https://www.collegepublications.co.uk/ifcolog/?00079" class="btn-pub btn-doi" target="_blank">URL</a>
+  </div>
+</div>
 
 <div class="pub-container">
   <span class="pub-title">First Steps in a Paraconsistent Transition Systems Toolkit.</span>
