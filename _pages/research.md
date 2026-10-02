@@ -79,10 +79,10 @@ author_profile: true
 <div class="pub-container">
   <span class="pub-title">First Steps in a Paraconsistent Transition Systems Toolkit.</span>
   <div class="pub-authors">Rodrigo Alves, Juliana Cunha, Alexandre Madeira</div>
-  <span class="pub-venue">Mathematical Structures in Computer Science, vol. 35, p. e14, 2025</span>
+  <span class="pub-venue">In: De Giacomo, G., Li, J., Xiao, L. (eds) Theoretical Aspects of Software Engineering. TASE 2026. Lecture Notes in Computer Science, vol 16697. Springer, Cham, 2026</span>
   <div class="pub-links">
     <a href="https://juliana-cunha.github.io/files/papers/TASE26.pdf" class="btn-pub btn-pdf">PDF</a>
-    <a href="https://doi.org/10.1017/S0960129525100170" class="btn-pub btn-doi" target="_blank">DOI</a>
+    <a href="https://link.springer.com/chapter/10.1007/978-3-032-30693-7_24" class="btn-pub btn-doi" target="_blank">DOI</a>
   </div>
 </div>
 
