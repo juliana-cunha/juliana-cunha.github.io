@@ -68,7 +68,7 @@ author_profile: true
       <span class="talk-title">"First Steps in a Paraconsistent Transition Systems Toolkit"</span>
       <div class="talk-details">
         <span class="talk-event"><a href="https://tase2026.github.io/" target="_blank">TASE 2026</a></span>, 
-        <div class="talk-location">Dishui Lake International Software Institute, </div>
+        <div class="talk-location">Dishui Lake International Software Institute </div>
       </div>
     </div>
     <div class="talk-inner-entry">
