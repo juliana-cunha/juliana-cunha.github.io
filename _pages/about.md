@@ -13,6 +13,7 @@ I am a PhD student in the [Doctoral Program in Mathematics](https://www.ua.pt/en
 
 **Email:** [juliana.cunha@ua.pt](mailto:juliana.cunha@ua.pt) (feel free to reach out)
 
+> *"Who has not asked himself at some time or other: am I a monster or is this what it means to be a person?"* — **Clarice Lispector**
 
 I have been to...
 ------
