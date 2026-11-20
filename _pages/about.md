@@ -20,6 +20,7 @@ I have been to...
 
 | Event | Location | Date |
 | :--- | :--- | :--- |
+| [6th Annual Meeting of DMat-UA PhD Students](https://sites.google.com/view/eaed-dmat-ua) (Chair) | University of Aveiro, PT | 2026 |
 | [TACL26 Summer School](https://iphils.uj.edu.pl/tacl/#school) | Institute of Psychology of the Jagiellonian University, PL | 2026 |
 | [TASE26](https://tase2026.github.io/) | Dishui Lake International Software Institute, CHN | 2026 |
 | [Days in Logic 2026](https://w3.math.uminho.pt/DiL2026/index.html) | University of Minho, PT | 2026 |
