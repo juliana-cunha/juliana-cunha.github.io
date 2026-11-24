@@ -65,6 +65,13 @@ author_profile: true
   <div class="talk-date">2026</div>
   <div class="talk-content-wrapper">
     <div class="talk-inner-entry">
+      <span class="talk-title">"Taming Paraconsistent Semantics"</span>
+      <div class="talk-details">
+        <span class="talk-event"><a href="https://cidma.ua.pt/agenda/event/738" target="_blank"> CIDMA Seminar (Algebra and Geometry Group)</a></span>, 
+        <div class="talk-location">University of Aveiro</div>
+      </div>
+    </div>
+    <div class="talk-inner-entry">
       <span class="talk-title">"First Steps in a Paraconsistent Transition Systems Toolkit"</span>
       <div class="talk-details">
         <span class="talk-event"><a href="https://tase2026.github.io/" target="_blank">TASE 2026</a></span>, 
